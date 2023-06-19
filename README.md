@@ -25,3 +25,4 @@ If terraform does not work for any reason, you can get it running by re authenti
 
 # Link to project assignment https://github.com/orgs/Shift3/projects/122?pane=issue&itemId=25025566
 
+![Screenshot 2023-06-19 at 12 18 15 PM](https://github.com/5usana/BW-documentation-sso-protocol-update/assets/74124144/50f48af6-2664-42d6-85f7-7be86d28a88a)
