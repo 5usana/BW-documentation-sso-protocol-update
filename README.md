@@ -21,3 +21,7 @@ After following the steps you are ready to use terraform. Make sure you change y
 
 If terraform does not work for any reason, you can get it running by re authenticating again by running the following:
  `aws sso login --profile bwtc-devops-sandbox`
+
+
+# Link to project assignment https://github.com/orgs/Shift3/projects/122?pane=issue&itemId=25025566
+
